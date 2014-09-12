@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="cros"
+           fetch="https://chromium.googlesource.com/"
+           review="gerrit.chromium.org/gerrit" />
+  <remote  name="github"
+           fetch=".." />
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+</manifest>
