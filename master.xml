@@ -8,6 +8,7 @@
 Your sources have been sync'd successfully.
   </notice>
 
-  <project path="." name="triAGENS/ArangoDB" revision="refs/tags/v2.2.3" />
+  <project path="ArangoDB" name="triAGENS/ArangoDB" revision="refs/tags/v2.2.3" />
+  <project path="." name="heavyk/PublicDB" />
 
 </manifest>
